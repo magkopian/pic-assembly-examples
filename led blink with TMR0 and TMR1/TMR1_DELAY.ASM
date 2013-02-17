@@ -1,3 +1,8 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Copyright (c) 2013 Manolis Agkopian		    ;
+;See the file LICENCE for copying permission.	    ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
 	;
 	;LED BLINK WITH TIMER 1, WITH 524288uS DELAY (ABOUT 0.5S)
 	;

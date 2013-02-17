@@ -1,3 +1,8 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Copyright (c) 2013 Manolis Agkopian		    ;
+;See the file LICENCE for copying permission.	    ;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
 	PROCESSOR '16F876A'
 	INCLUDE <P16F876A.INC>
 
