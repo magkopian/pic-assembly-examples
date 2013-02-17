@@ -1,3 +1,8 @@
+	;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+	;Copyright (c) 2013 Manolis Agkopian		    ;
+	;See the file LICENCE for copying permission.	    ;
+	;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
 	;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 	; THE FOLLOWING STEPS SHOULD BE TAKEN WHEN CONFIGURING THE CCP MODULE FOR PWM OPERATION: ;
 	;                                                                                        ;
