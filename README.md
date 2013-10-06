@@ -12,3 +12,6 @@ These are just some basic examples for common tasks, that you can do with a PIC 
 
 </body>
 </html>
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/magkopian/pic-assembly-examples/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
